@@ -1,0 +1,105 @@
+{
+  "music" :[
+    {
+      "musicId" : 1,
+      "musicPath" : "music/1.mp3",
+      "musicCover" : "Akhiyaan_Gulaab__Song___Shahid_Kapoor,_Kriti_Sanon___Mitraz___Teri_Baaton_Mein_Aisa_Uljha_Jiya(256k)"
+    }
+    ,
+    {
+      "musicId" : 2,
+      "musicPath" : "music/2.mp3",
+      "musicCover":"ANIMAL__Saari_Duniya_Jalaa_Denge__Film_Version__Ranbir_K,_Bobby_D,_Sandeep,_B_Praak,Jaani,_Bhushan_K(256k)"
+    }
+    ,
+    
+    {
+      "musicId" : 3,
+      "musicPath" : "music/3.mp3",
+      "musicCover" : "ANIMAL__SATRANGA_Song__Ranbir_Kapoor,Rashmika_Sandeep_V_Arijit,Shreyas_P,Siddharth-Garima__Bhushan_K(256k)"
+    }
+    ,
+    
+    {
+      "musicId" : 4,
+      "musicPath" : "music/4.mp3",
+      "musicCover":"Badshah_-_Gone_Girl__लड़की_ख़राब____Official_Music_Video Payal_Dev___Sakshi_Vaidya(256k)"
+    }
+    ,
+    
+    {
+      "musicId" : 5,
+      "musicPath" : "music/5.mp3",
+      "musicCover" : "Badshah coke studio"
+    }
+    ,
+    
+    {
+      "musicId" : 6,
+      "musicPath" : "music/6.mp3",
+      "musicCover" : "CRAKK__Jeena_Haraam__Song____Vidyut_Jammwal,_Nora_Fatehi___Tanishk_Bagchi___Vishal_Mishra,Shilpa_Rao(256k)"
+    }
+    ,
+    
+    {
+      "musicId" : 7,
+      "musicPath" : "music/7.mp3",
+      "musicCover" : "FIGHTER__Heer_Aasmani__Song__Hrithik,_Deepika,_Anil,_Vishal-Sheykhar,_Bpraak,_Kumaar,_Piyush-Shazia(256k)"
+    }
+    ,
+    
+    {
+      "musicId" : 8,
+      "musicPath" : "music/8.mp3",
+      "musicCover" : "FIGHTER__Sher_Khul_Gaye_Song,_Hrithik,_Deepika,_Vishal-Sheykhar,_Benny,_Shilpa,_Kumaar,_Bosco-Caesar(256k)"
+    }
+    ,
+    
+    {
+      "musicId" : 9,
+      "musicPath" : "music/9.mp3",
+      "musicCover":"Guli_Mata_-_Official_Video___Saad_Lamjarred___Shreya_GhoshalJennifer_Winget___Anshul_Garg(256k)"
+    }
+    ,
+    
+    {
+      "musicId" : 10,
+      "musicPath" : "music/10.mp3",
+      "musicCover":"Heeriye__Official_Video__Jasleen_Royal_ft_Arijit_Singh__Dulquer_Salmaan__Aditya_Sharma__Taani_Tanvir(256k)"
+    }
+    ,
+    
+    {
+      "musicId" : 11,
+      "musicPath" : "music/11.mp3",
+      "musicCover" : "Jale_2__Official_Video____Sapna_Choudhary,Aman_Jaji,Sahil_Sandhu___Shiva___New_Haryanvi_Song_2023(256k)"
+    }
+    ,
+    {
+      "musicId" : 12,
+      "musicPath" : "music/12.mp3",
+      "musicCover" : "AMaan_Meri_Jaan___Official_Music_Video___Champagne_Talk___King(256k))"
+    }
+    ,
+    {
+      "musicId" : 13,
+      "musicPath" : "music/13.mp3",
+      "musicCover" : "Maan_Meri_Jaan___Official_Music_Video___Champagne_Talk___King(256k)"
+    }
+    ,
+    {
+      "musicId" : 14,
+      "musicPath" : "music/14.mp3",
+      "musicCover":"Teri_Baaton_Mein_Aisa_Uljha_Jiya__Title_Track___Shahid_Kapoor,_Kriti_Sanon___Raghav,Tanishk,_Asees(256k)"
+    }
+    ,
+    {
+      "musicId" : 15,
+      "musicPath" : "music/15.mp3",
+      "musicCover" : "Zihaal_e_Miskin__Video__Javed-Mohsin___Vishal_Mishra,_Shreya_Ghoshal___Rohit_Z,_Nimrit_A___Kunaal_V(256k)"
+    }
+    
+    
+    
+  ]
+}
